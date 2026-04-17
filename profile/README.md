@@ -21,6 +21,7 @@
 - [Лекция 6 – Поведенческие паттерны (1)](lectures/6-behavioural-patterns-1-presentation.pdf)
 - [Лекция 7 - Поведенческие паттерны (2)](lectures/7-behavioural-patterns-2-presentation.pdf)
 - [Лекция 8 – Многослойные архитектуры](lectures/8-layered-architectures.pdf)
+- [Лекция 9 - Память и сборщик мусора](lectures/9-memory-and-gc.pdf)
 
 ## Лабораторные
 
